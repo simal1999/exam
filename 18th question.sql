@@ -1,0 +1,1 @@
+select sqrt(pow(0-(-1),2)+pow(0-(-1),2)) as shortest_distance
