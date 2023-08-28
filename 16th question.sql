@@ -1,0 +1,1 @@
+select company,avg(salary) as median_salary from employee group by company
